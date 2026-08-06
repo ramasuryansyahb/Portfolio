@@ -1,6 +1,6 @@
 # Portfolio
 
-Hi, I'm Rama Suryansyah Budianto — an undergraduate Engineering Physics student at Sepuluh Nopember Institute of Technology (ITS), Surabaya, Indonesia, specializing in instrumentation engineering with a focus on systems and control.
+Hi, I'm Rama Suryansyah Budianto an undergraduate Engineering Physics student at Sepuluh Nopember Institute of Technology (ITS), Surabaya, Indonesia, specializing in instrumentation engineering with a focus on systems and control.
 
 This repository is a collection of the projects and research I've worked on during my studies, mainly centered around electrical motor drives, UAV systems, and control theory. It includes work on:
 - **Motor control** — BLDC control using trapezoidal and field oriented control commutation
