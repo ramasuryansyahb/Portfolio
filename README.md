@@ -8,4 +8,5 @@ This repository is a collection of the projects and research I've worked on duri
 - **Embedded & sensor systems** - data acquisition, signal processing, and control applications
 
 Feel free to explore the individual project folders for more details on each one.
+
 📧 ramasuryansyahb@gmail.com
